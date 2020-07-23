@@ -1,7 +1,7 @@
 # ap-pdfscrapper
 
 ## Description
-null
+Challenge project given in AP Comptuer Science to scrape info from web PDFs
 
 ### Tags
 [Java, Application]
